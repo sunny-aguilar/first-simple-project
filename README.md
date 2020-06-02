@@ -7,6 +7,7 @@ My last remaining classes will mostly focus on the web stack of technologies. My
 will cover mostly front end but will also cover some back-end technologies such as NodeJS and
 ExpressJS.
 
-Next
+The class after that will mainly consist of the backend. CS340 Intro to Databases covers the back-end of web development
+and we are given a few options 
 
 
