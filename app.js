@@ -3,7 +3,9 @@
 
 let banner = document.getElementById('banner')
 
-banner.onload = function()
+banner.onload = function() { load_banner() };
+
+function load_banner()
 {
     let message = "Welcome back to web development!"
     banner.innerText = message
