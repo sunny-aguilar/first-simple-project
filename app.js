@@ -1,7 +1,7 @@
 // Hello JS!
 // I'm back baby lol
 
-
+// execute function on window load
 window.onload = function() { load_banner() };
 
 function load_banner()
