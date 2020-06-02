@@ -1,9 +1,8 @@
 // Hello JS!
 // I'm back baby lol
 
-let banner = document.getElementById('banner');
 
-banner.onload = function() { load_banner() };
+window.onload = function() { load_banner() };
 
 function load_banner()
 {
