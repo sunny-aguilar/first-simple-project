@@ -8,7 +8,7 @@ banner.onload = function() { load_banner() };
 function load_banner()
 {
     let message = "Welcome back to web development!";
-    banner.innerText = message;
+    banner.innerHTML = message;
 }
 
 
