@@ -11,7 +11,7 @@
 //     banner.innerHTML = message;
 // }
 
-
+// new way using arrow functions :)
 window.addEventListener('load', (event) => {
     let message = "Welcome back to web development!";
     let banner = document.getElementById('banner');
