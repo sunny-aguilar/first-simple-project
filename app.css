@@ -4,11 +4,12 @@
 
 h1 {
     color: coral;
+    color: rgb(255,127,80);
     font-family: sans-serif;
 }
 
 p {
-    color: rgb(0,0,0);
+    color: rgb(46, 46, 46);
     font-family: 'Saira', sans-serif;
 }
 
