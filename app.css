@@ -1,9 +1,11 @@
 /* Hello CSS! */
 
+h1 {
+    color: coral;
+}
+
 p {
     font-family: 'Saira', sans-serif;
 }
 
-h1 {
-    color: coral;
-}
+
