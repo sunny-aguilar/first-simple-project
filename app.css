@@ -4,8 +4,7 @@
 
 /* grid display */
 body {
-    display: grid;
-    grid-template-columns: auto;
+
 }
 
 h1 {
@@ -18,4 +17,25 @@ p {
     font-family: 'Saira', sans-serif;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 10px;
+    background-color: darkcyan;
+}
 
+.grid-item {
+    background-color: cornflowerblue;
+}
+
+.item1 {
+    grid-column: 1 / span 3;
+}
+
+.item2 {
+    
+}
+
+.item3 {
+    
+}
