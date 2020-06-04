@@ -20,13 +20,14 @@ p {
 .grid-container {
     display: grid;
     grid-gap: 10px;
-    background-color: darkcyan;
+    background-color: rgb(29, 60, 102);
     padding: 10px;
 }
 
 .grid-item {
     background-color: cornflowerblue;
     padding: 10px;
+    text-align: center;
 }
 
 .item1 {
@@ -34,9 +35,9 @@ p {
 }
 
 .item2 {
-    
+    grid-column: 1 / span 3;
 }
 
 .item3 {
-    
+    grid-column: 1 / span 3;
 }
