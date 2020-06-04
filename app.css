@@ -5,6 +5,7 @@
 /* grid display */
 body {
     display: grid;
+    grid-template-columns: auto;
 }
 
 h1 {
