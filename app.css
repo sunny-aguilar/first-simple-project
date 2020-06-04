@@ -1,5 +1,9 @@
 /* Hello CSS! */
 
+p {
+    font-family: 'Saira', sans-serif;
+}
+
 h1 {
     color: coral;
 }
