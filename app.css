@@ -19,13 +19,14 @@ p {
 
 .grid-container {
     display: grid;
-    grid-template-columns: auto;
     grid-gap: 10px;
     background-color: darkcyan;
+    padding: 10px;
 }
 
 .grid-item {
     background-color: cornflowerblue;
+    padding: 10px;
 }
 
 .item1 {
