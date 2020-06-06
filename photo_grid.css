@@ -12,8 +12,8 @@ img {
 p {
     font-family: 'Saira', sans-serif;
     margin-left: 1.66%;
-    margin-bottom: 10px;
-    /* padding-bottom: 20px; */
+    /* margin-bottom: 10px; */
+    padding-bottom: 20px;
     font-size: 23px;
     font-weight: 800;
     text-transform: uppercase;
