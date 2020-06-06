@@ -12,7 +12,7 @@ img {
 p {
     font-family: 'Saira', sans-serif;
     margin-left: 1.66%;
-    margin-bottom: 5px;
+    /* margin-bottom: 5px; */
     font-size: 23px;
     font-weight: 800;
     text-transform: uppercase;
